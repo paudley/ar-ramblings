@@ -1,0 +1,20 @@
+<<?xml version="1.0" encoding="UTF-8"?>
+<fileset>
+<file>
+  <path>artest.php</path>
+  <type>PHP</type>
+  <license>GPL</license>
+</file>
+
+<file>
+  <path>ActiveRecord.php</path>
+  <type>PHP</type>
+  <license>GPL</license>
+</file>
+
+<file>
+  <path>ActiveRecord2.php</path>
+  <type>PHP</type>
+  <license>GPL</license>
+</file>
+</fileset>
